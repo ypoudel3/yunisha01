@@ -1,0 +1,44 @@
+.container{
+padding:0 20px;
+}
+.card1{
+    background-color:#b2bcb8 ;
+    color:#021d11 ;
+    height: 10rem;
+
+    
+    
+}
+.card2{
+    background-color:#b2bcb8 ;
+    color:#021d11 ;
+    height: 18rem;
+    
+    
+}
+h4{
+    font-weight: bold !important;
+    font-size: 30px !important;
+    text-align: center;
+    padding-bottom: 10px;
+}
+h2{
+    font-size: 24px !important;
+}
+.btn1{
+width:10rem;
+height: 40px;
+border: 2px solid;
+border-color: black;
+border-radius: 20px;
+margin-right: 10px;
+margin-bottom: 20px;
+
+}
+.btn1 a{
+    text-decoration: none;
+    color: #021d11;
+}
+.btn1:hover{
+    background-color: #95b9aa;
+}

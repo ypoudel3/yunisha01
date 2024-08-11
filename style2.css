@@ -1,0 +1,121 @@
+body{
+    background-color:rgb(248, 247, 245) !important; 
+    color:#35604e  !important;
+}
+
+  h1{
+    font-size: 40px !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold !important;
+        
+  }
+  .card-body{
+    width: 50%;
+    padding-bottom: 40px;
+  } 
+
+
+.b1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    width:130px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid white;
+    background-color: #304F42;
+color: white;
+
+
+}
+.b1:hover{
+    color:yellow;
+}
+.bA{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    width:130px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid #304F42;
+    color: #304F42;
+background-color: white;
+
+}
+.bA:hover{
+    color:yellow;
+}
+.b2{
+    margin-left: 30px;
+    width:120px;
+    height: 30px;
+    border-radius: 20px;
+    border: solid #304F42;
+    background-color:white ;
+    text-align: center;
+    color: #304F42;
+    
+    }
+.b2:hover{
+    color:yellow;
+}
+.box{
+    border:2px,solid;
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color:#304F42 ;
+    color: white;
+    opacity: 0.8;
+}
+.card-text{
+    text-align: center;
+}
+h3{
+    
+    font-size: 45px;
+}
+.b3{
+    
+    width:130px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid white;
+    background-color: #304F42;
+    
+    font-weight: bold;
+    color: white;
+    
+    }
+img{
+    
+        
+        padding: 2%;
+        border-radius: 5%;
+    }
+.button{
+    display: block;
+}
+
+h1{
+    text-align:center;
+    padding-left: 30px;
+    padding:10px 0;
+    pointer-events: none;
+    
+
+} 
+/* responsive*/
+.checkbtn{
+    font-size:30px;
+    color: #304F42;
+    float:right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor:pointer;
+    display:none;
+}
+#check{
+display: none !important;
+
+
+}
