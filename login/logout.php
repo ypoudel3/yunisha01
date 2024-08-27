@@ -19,7 +19,7 @@
                         <a class="nav-link active" aria-current="page" href="../yunisha.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="film.html">Testimonials</a>
+                        <a class="nav-link active" href="film.html">Blogs</a>
                     </li>
                     <li class="nav-item dropdown xyz">
                         <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

@@ -21,7 +21,7 @@ function appendMessage(sender, message) {
 }
 
 function getResponse(message) {
-    let response = "I'm sorry, I didn't understand that.";
+    let response = "I'm sorry you feel that. I hope you feel better soon. I'd recommend talking to your closed ones";
 
     if (message.toLowerCase().includes("hi")) {
         response = "Hi! How can I help you?";
